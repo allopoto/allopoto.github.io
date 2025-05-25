@@ -9,13 +9,15 @@ website:
         href: index.qmd
       - text: Khóa học
         href: courses.qmd
-      - text: Blogs
-        href: blog.qmd 
+      - text: Review
+        href: feedback.qmd 
     right:
       - icon: whatsapp
         href: https://wa.me/33744192752
       - icon: instagram
-        href: https://www.instagram.com/allopoto.french/
+        href: https://www.instagram.com/allopoto.be/
+      - icon: instagram
+        href: https://www.instagram.com/coucoutintin.be/
       - icon: envelope
         href: mailto:allopoto.be@gmail.com
       - icon: facebook
