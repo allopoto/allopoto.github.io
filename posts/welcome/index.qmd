@@ -1,12 +1,8 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-05-22"
-categories: [news]
+title: "Bùi Xuân Huy"
+author: "Nghiên cứu sinh tại đại học tự do Brussels (VUB)"
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Đây là review của anh Xuân Huy.
 
-![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+**Đánh giá:** ⭐⭐⭐⭐⭐

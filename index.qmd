@@ -16,6 +16,5 @@ about:
       href: https://facebook.com/allopoto.vn
 ---
 
-**AllôPoto** là trung tâm dạy tiếng Pháp với đội ngũ giảng viên trẻ, năng động và giàu kinh nghiệm. Chúng tôi mang đến các khóa học tiếng Pháp từ cơ bản đến nâng cao, phù hợp cho mọi lứa tuổi, với phương pháp giảng dạy sinh động, dễ hiểu và tương tác cao.
-Khám phá ngay các [**Khóa học**](courses.qmd) tại AllôPoto để tìm chương trình phù hợp với bạn.\
+**AllôPoto** là trung tâm dạy tiếng Pháp với đội ngũ giảng viên trẻ, năng động và giàu kinh nghiệm. Chúng tôi mang đến các khóa học tiếng Pháp từ cơ bản đến nâng cao, phù hợp cho mọi lứa tuổi, với phương pháp giảng dạy sinh động, dễ hiểu và tương tác cao. Khám phá ngay các [**Khóa học**](courses.qmd) tại AllôPoto để tìm chương trình phù hợp với bạn.\
 **Liên hệ với chúng tôi** để được tư vấn chi tiết 👇

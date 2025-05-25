@@ -2,9 +2,9 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Bùi Xuân Huy",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Đây là review của anh Xuân Huy.\nĐánh giá: ⭐⭐⭐⭐⭐"
   },
   {
     "objectID": "index.html",
@@ -14,24 +14,24 @@
     "text": "AllôPoto là trung tâm dạy tiếng Pháp với đội ngũ giảng viên trẻ, năng động và giàu kinh nghiệm. Chúng tôi mang đến các khóa học tiếng Pháp từ cơ bản đến nâng cao, phù hợp cho mọi lứa tuổi, với phương pháp giảng dạy sinh động, dễ hiểu và tương tác cao. Khám phá ngay các Khóa học tại AllôPoto để tìm chương trình phù hợp với bạn.\nLiên hệ với chúng tôi để được tư vấn chi tiết 👇"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Phản hồi từ học viên",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 25, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 22, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "courses.html",
     "href": "courses.html",
     "title": "Khóa học của chúng tôi",
     "section": "",
-    "text": "Các Khóa Học Tiếng Pháp tại AllôPoto\nKhám phá các chương trình học của chúng tôi:\nTiếng Pháp cho Người Mới Bắt Đầu\n⏳ Thời lượng: 8 tuần\n\nHọc từ vựng, ngữ pháp và kỹ năng giao tiếp cơ bản.\nTập trung vào giao tiếp hàng ngày và các cấu trúc đơn giản.\n\nTiếng Pháp Trình Độ Trung Cấp\n⏳ Thời lượng: 10 tuần\n\nNâng cao kiến thức ngữ pháp và mở rộng từ vựng.\nNhấn mạnh vào kỹ năng nghe, nói và áp dụng trong đời sống thực tế.\n\nTiếng Pháp Trình Độ Nâng Cao\n⏳ Thời lượng: 12 tuần\n\nHoàn thiện khả năng sử dụng tiếng Pháp một cách trôi chảy và tự tin.\nBao gồm tranh luận, viết luận và khám phá văn hóa Pháp\n\n📝 Bạn quan tâm? Hãy liên hệ với chúng tôi qua WhatsApp, Instagram, Facebook hoặc Email. Cùng trò chuyện nhé!"
+    "text": "Các Khóa Học Tiếng Pháp tại AllôPoto\nKhám phá các chương trình học của chúng tôi:\nLớp Poto (trình độ A0-A1)\n⏳ Thời lượng: 25 buổi (25 giờ)\n💰 Học phí: 7.500.000 VNĐ (275€)\n\nHọc từ vựng, ngữ pháp và kỹ năng giao tiếp cơ bản.\nTập trung vào giao tiếp hàng ngày và các cấu trúc đơn giản\n\nLớp Tintin (trình độ A2-B1)\n⏳ Thời lượng: 25 buổi (25 giờ)\n💰 Học phí: 7.500.000 VNĐ (275€)\n\nNâng cao kiến thức ngữ pháp và mở rộng từ vựng.\nNhấn mạnh vào kỹ năng nghe, nói và áp dụng trong đời sống thực tế.\n\nLớp Schtroumpf (B2-C1)\n⏳ Thời lượng: 40 buổi (40 giờ)\n💰 Học phí: 27.500.000 VNĐ (1000€)\n\nHoàn thiện khả năng sử dụng tiếng Pháp một cách trôi chảy và tự tin.\nBao gồm tranh luận, viết luận và khám phá văn hóa Pháp\n\n📝 Bạn quan tâm? Hãy liên hệ với chúng tôi qua WhatsApp, Instagram, Facebook hoặc Email. Cùng trò chuyện nhé!"
+  },
+  {
+    "objectID": "feedback.html",
+    "href": "feedback.html",
+    "title": "Phản hồi từ học viên",
+    "section": "",
+    "text": "Bùi Quang Đông\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBùi Xuân Huy\n\n\n\n\n\n\n\n\n\n\n\nNghiên cứu sinh tại đại học tự do Brussels (VUB)\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Bùi Quang Đông",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "Đây là review của anh Đông. Đánh giá: ⭐⭐⭐⭐☆"
   }
 ]
