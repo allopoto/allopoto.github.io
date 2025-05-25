@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: "docs"
+website:
+  title: "AlloPoto"
+  navbar:
+    left: 
+      - text: Home
+        href: index.qmd
+      - text: Courses
+        href: courses.qmd
+      - text: Blogs
+        href: blog.qmd 
+    right:
+      - icon: whatsapp
+        href: https://wa.me/33744192752
+      - icon: instagram
+        href: https://www.instagram.com/allopoto.french/
+      - icon: envelope
+        href: mailto:allopoto.be@gmail.com
+      - icon: facebook
+        href: https://facebook.com/allopoto.vn
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+editor: visual
+

@@ -1,0 +1,18 @@
+---
+title: "Welcome to AlloPoto"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: whatsapp
+      href: https://wa.me/33744192752
+    - icon: instagram
+      href: https://www.instagram.com/allopoto.french/
+    - icon: envelope
+      href: mailto:allopoto.be@gmail.com
+    - icon: facebook
+      href: https://facebook.com/allopoto.vn
+---
+
+**Allopoto** is your friendly neighborhood French language center, helping you connect, speak, and grow with confidence. We offer beginner to advanced French courses for all age groups in a fun and interactive way. Explore our [Courses](courses.qmd) to find what fits your level.\
+**Contact with us** 👇
