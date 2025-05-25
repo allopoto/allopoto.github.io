@@ -5,9 +5,9 @@ website:
   title: "AlloPoto"
   navbar:
     left: 
-      - text: Home
+      - text: Trang chủ
         href: index.qmd
-      - text: Courses
+      - text: Khóa học
         href: courses.qmd
       - text: Blogs
         href: blog.qmd 
