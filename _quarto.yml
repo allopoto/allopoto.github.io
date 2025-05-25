@@ -2,10 +2,10 @@ project:
   type: website
   output-dir: "docs"
 website:
-  title: "AlloPoto"
+  title: "AllôPoto"
   navbar:
     left: 
-      - text: Trang chủ
+      - text: Về chúng tôi
         href: index.qmd
       - text: Khóa học
         href: courses.qmd
