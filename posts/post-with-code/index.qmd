@@ -1,9 +1,0 @@
----
-title: "Bùi Quang Đông"
-image: "image.jpg"
----
-
-Đây là review của anh Đông.
-**Đánh giá:** ⭐⭐⭐⭐☆
-```{}
-```
