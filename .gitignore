@@ -46,3 +46,7 @@ po/*~
 rsconnect/
 
 /.quarto/
+
+# Don't track CNAME
+docs/CNAME
+
