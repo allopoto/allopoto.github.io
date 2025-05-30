@@ -1,4 +1,10 @@
+/*-- scss:defaults --*/
+$body-bg: #F6EDC6;
+$text-color: #333;
+
+/*-- scss:rules --*/
 body {
-  font-family: Arial, sans-serif;
-  background-color: #F6EDC6;
+  font-family: 'Arial', sans-serif;
+  color: $text-color;
+  background-color: $body-bg;
 }
