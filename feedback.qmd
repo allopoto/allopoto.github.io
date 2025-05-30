@@ -1,8 +1,7 @@
 ---
 title: "Phản hồi từ học viên"
 listing:
-  contents: posts
-  sort: "date desc"
+  contents: feedbacks
   type: default
   categories: true
   sort-ui: false
