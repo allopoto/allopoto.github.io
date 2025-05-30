@@ -2,10 +2,11 @@
   {
     "listing": "/feedback.html",
     "items": [
-      "/posts/bui-quang-dong/index.html",
-      "/posts/bui-xuan-huy/index.html",
-      "/posts/van-cuong/index.html",
-      "/posts/vi-thao/index.html"
+      "/feedbacks/chuc-an/index.html",
+      "/feedbacks/bui-quang-dong/index.html",
+      "/feedbacks/vi-thao/index.html",
+      "/feedbacks/van-cuong/index.html",
+      "/feedbacks/bui-xuan-huy/index.html"
     ]
   }
 ]
