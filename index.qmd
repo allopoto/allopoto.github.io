@@ -1,6 +1,6 @@
 ---
 title: "Chào mừng đến với AllôPoto"
-image: profile.jpg
+image: allopoto.png
 about:
   template: jolla
   links:
