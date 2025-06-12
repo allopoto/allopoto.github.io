@@ -5,8 +5,10 @@ website:
   title: "AllôPoto"
   navbar:
     left: 
-      - text: Khóa học
+      - text: Khóa học online
         href: courses.qmd
+      - text: Khóa học video
+        href: courses-video.qmd
       - text: Review
         href: feedback.qmd 
     right:
