@@ -12,6 +12,8 @@ about:
       href: mailto:allopoto.be@gmail.com
     - icon: facebook
       href: https://facebook.com/allopoto.vn
+    - icon: tiktok
+      href: https://www.tiktok.com/@allopoto.be
 ---
 
 **AllôPoto** là đội ngũ dạy tiếng Pháp với những giảng viên trẻ trung, năng động và giàu kinh nghiệm. Chúng tôi mang đến các khóa học tiếng Pháp từ cơ bản đến nâng cao, phù hợp cho mọi lứa tuổi, với phương pháp giảng dạy sinh động, dễ hiểu và tương tác cao.\
