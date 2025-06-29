@@ -3,6 +3,7 @@ project:
   output-dir: "docs"
 website:
   title: "AllôPoto"
+  google-analytics: G-FMLDNB4FVM
   navbar:
     left: 
       - text: Khóa học online
