@@ -9,6 +9,8 @@ website:
         href: courses.qmd
       - text: Khóa học video
         href: courses-video.qmd
+      - text: Blog
+        href: blogs.qmd
       - text: Review
         href: feedback.qmd 
     right:
