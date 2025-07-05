@@ -1,5 +1,5 @@
 ---
-title: "Blog thế giới tiếng Pháp"
+title: "Blog tiếng Pháp của chúng mình"
 listing:
   contents: blogs 
   type: default
