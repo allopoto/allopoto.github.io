@@ -8,3 +8,8 @@ body {
   color: $text-color;
   background-color: $body-bg;
 }
+
+/* Make blog titles in the listing bold */
+.no-anchor.listing-title a {
+    font-weight: bold;
+}

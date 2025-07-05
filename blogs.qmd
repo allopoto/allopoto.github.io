@@ -1,7 +1,7 @@
 ---
 title: "Blog thế giới tiếng Pháp"
 listing:
-  contents: blogs
+  contents: blogs 
   type: default
   categories: true
   sort-ui: false
