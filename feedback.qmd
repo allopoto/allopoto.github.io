@@ -1,5 +1,5 @@
 ---
-title: "Phản hồi từ học viên"
+title: "Phản hồi từ một vài học viên"
 listing:
   contents: feedbacks
   type: default
