@@ -1,5 +1,6 @@
 ---
 title: "Phân biệt Parce que và Car"
+date: 2025-06-21
 author: "Allôpoto.be"
 image: "1.png"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Hoạt hình Bỉ"
+date: 2025-06-14
 author: "Allôpoto.be"
 image: "1.png"
 categories:
@@ -8,8 +9,8 @@ categories:
 
 Cùng AllôPoto ôn lại kỷ niệm với các phim hoạt hình Bỉ gắn liền với những năm ấu thơ 🥰
 
-- ![](2.png)
+-   ![](2.png)
 
-- ![](3.png)
+-   ![](3.png)
 
-- ![](4.png)
+-   ![](4.png)

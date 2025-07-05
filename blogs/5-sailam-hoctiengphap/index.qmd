@@ -1,5 +1,6 @@
 ---
 title: "5 lầm tưởng tai hại khi học tiếng Pháp"
+date: 2022-12-06
 author: "Allôpoto.be"
 image: "fig-1.jpg"
 categories:
