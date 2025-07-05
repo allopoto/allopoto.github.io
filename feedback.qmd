@@ -1,5 +1,5 @@
 ---
-title: "Phản hồi từ một vài học viên"
+title: "Phản hồi từ một vài học viên về chúng mình"
 listing:
   contents: feedbacks
   type: default
@@ -8,6 +8,7 @@ listing:
   filter-ui: false
   max-description-length: 450
   image-height: 300px
+  sort: "author desc"
 page-layout: full
 title-block-banner: true
 ---
