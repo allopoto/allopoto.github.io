@@ -2,7 +2,7 @@
 title: "5 cách luyện kỹ năng nghe"
 date: 2022-03-12
 author: "Allôpoto.be"
-image: "vid-1.mp4"
+image: "fig-0.jpg"
 categories:
 - Học tiếng Pháp 
 ---
