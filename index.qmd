@@ -21,14 +21,19 @@ Khám phá ngay các [**Khóa học**](courses.qmd) tại AllôPoto để tìm c
 **Liên hệ với chúng mình qua WhatsApp, Instagram, Email, Facebook hoặc Tiktok** để được tư vấn chi tiết 👇
 
 <!-- Shoutout Banner -->
-<div style="background-color: #ffcc00; color: #000; padding: 20px; text-align: center; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-  <h2 style="font-size: 24px; font-weight: bold; margin-bottom: 15px;">🚨 [SIVIBI x ALLOPOTO] WEBINAR: "LÀM BẠN VỚI TIẾNG PHÁP TẠI BỈ" 🚨</h2>
-  <p style="font-size: 18px; margin-bottom: 20px; line-height: 1.6;">
-    Hội Sinh Viên Việt Nam tại Bỉ (SIVIBI) kết hợp cùng Allopoto tổ chức buổi webinar hoàn toàn miễn phí với chủ đề "Làm bạn với tiếng Pháp tại Bỉ", nơi bạn sẽ được chia sẻ chi tiết vai trò của tiếng Pháp trong quá trình chuẩn bị, hòa nhập, học tập và làm việc tại Bỉ.
-    <br>
-    ⏰ Thời gian webinar (dư kiến): 10h (giờ Bỉ) / 15h (giờ Việt Nam) ngày 26/07/2025.
-  </p>
-  <p>
-    <a href=https://forms.gle/TocJybXkNVoaV3Y87 style="font-size: 18px; color: #fff; background-color: #ff5722; padding: 12px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">Đăng ký ngay tại đây</a>
-  </p>
-</div>
+
+::: {style="background-color: #ffcc00; color: #000; padding: 20px; text-align: center; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"}
+<h2 style="font-size: 24px; font-weight: bold; margin-bottom: 15px;">
+
+🚨 \[SIVIBI x ALLOPOTO\] WEBINAR: "LÀM BẠN VỚI TIẾNG PHÁP TẠI BỈ" 🚨
+
+</h2>
+
+<p style="font-size: 18px; margin-bottom: 20px; line-height: 1.6;">
+
+Hội Sinh Viên Việt Nam tại Bỉ (SIVIBI) kết hợp cùng Allopoto tổ chức buổi webinar hoàn toàn miễn phí với chủ đề "Làm bạn với tiếng Pháp tại Bỉ", nơi bạn sẽ được chia sẻ chi tiết vai trò của tiếng Pháp trong quá trình chuẩn bị, hòa nhập, học tập và làm việc tại Bỉ. <br> ⏰ Thời gian webinar (dự kiến): 10h (giờ Bỉ) / 15h (giờ Việt Nam) ngày 26/07/2025.
+
+</p>
+
+<p><a href=https://forms.gle/TocJybXkNVoaV3Y87 style="font-size: 18px; color: #fff; background-color: #ff5722; padding: 12px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">Đăng ký ngay tại đây</a></p>
+:::
