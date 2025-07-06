@@ -17,7 +17,7 @@ format: html
 :::
 
 ::: column
-![](video-course/giao-tiep-co-ban.png){fig-alt="Communication Image" width="100%" style="border-radius: 8px;"}
+![](video-course/giao_tiep_co_ban.png){fig-alt="Communication Image" width="100%" style="border-radius: 8px;"}
 :::
 
 :::
@@ -29,16 +29,14 @@ format: html
 ::: columns
 
 ::: column
-::: callout-note[Số đếm]
 1. Đếm từ 0 tới 1 tỉ  
 2. Khác biệt giữa số đếm trong tiếng Pháp Pháp và Pháp Bỉ / Thụy Sĩ / Canada  
 3. Số thứ tự  
 4. Ứng dụng số đếm trong cuộc sống  
 :::
-:::
 
 ::: column
-![](video-course/so-dem.png){fig-alt="Số đếm" width="100%" .rounded}
+![](video-course/allopoto_dem_so.png){fig-alt="Số đếm" width="100%" .rounded}
 :::
 
 :::
@@ -50,7 +48,6 @@ format: html
 ::: columns
 
 ::: column
-::: callout-note[Chia động từ]
 1. Các thời động từ trong tiếng Pháp  
 2. Các ngôi + 3 động từ cơ bản avoir, être, aller  
 3. Động từ venir + 3 thời cơ bản (présent progressif; passé récent; futur proche)  
@@ -62,10 +59,9 @@ format: html
 9. Futur antérieur  
 10. Passé simple  
 :::
-:::
 
 ::: column
-![](video-course/chia-dong-tu.png){fig-alt="Chia động từ" width="100%" .rounded}
+![](video-course/chia_dong_tu.png){fig-alt="Chia động từ" width="100%" .rounded}
 :::
 
 :::
@@ -77,17 +73,15 @@ format: html
 ::: columns
 
 ::: column
-::: callout-note[Câu hỏi + Phủ định]
 1. Các loại câu hỏi  
 2. Ví dụ và bài tập  
 3. Các loại câu phủ định  
 4. Ví dụ và bài tập  
 5. Ví dụ thực tế  
 :::
-:::
 
 ::: column
-![](video-course/cau-hoi-phu-dinh.png){fig-alt="Câu hỏi và Phủ định" width="100%" .rounded}
+![](video-course/allopoto_cam_sach_vay_tay.png){fig-alt="Câu hỏi và Phủ định" width="100%" .rounded}
 :::
 
 :::
@@ -99,7 +93,6 @@ format: html
 ::: columns
 
 ::: column
-::: callout-note[Danh từ + Mạo từ + Từ hạn định]
 1. Danh từ chỉ người  
 2. Danh từ chỉ vật  
 3. Danh từ chỉ động vật  
@@ -109,10 +102,9 @@ format: html
 7. Từ chỉ định  
 8. Tổng hợp, bài tập  
 :::
-:::
 
 ::: column
-![](video-course/danh-tu-mao-tu.png){fig-alt="Danh từ & Mạo từ" width="100%" .rounded}
+![](video-course/allopoto_holding_3_ballons.png){fig-alt="Danh từ & Mạo từ" width="100%" .rounded}
 :::
 
 :::
@@ -124,17 +116,15 @@ format: html
 ::: columns
 
 ::: column
-::: callout-note[Tính từ + Trạng từ]
 1. Tính từ đực / cái + số ít / nhiều + hợp giống-số  
 2. Vị trí của tính từ trong câu  
 3. Các tính từ đặc biệt  
 4. Trạng từ  
-5. Tổng hợp, bài tập  
-:::
+5. Tổng hợp, bài tập 
 :::
 
 ::: column
-![](video-course/tinh-tu-trang-tu.png){fig-alt="Tính từ & Trạng từ" width="100%" .rounded}
+![](video-course/tinh_tu_trang_tu.png){fig-alt="Tính từ & Trạng từ" width="100%" .rounded}
 :::
 
 :::
