@@ -131,31 +131,30 @@ format: html
 
 ---
 
-## Đăng ký mua khóa học
+## 🧾 Thanh toán và xác nhận học phí
 
-::: {.callout-note}
-### ✨ Đăng ký ngay khóa học video - Level 1
+### Bước 1: Chuyển khoản
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-  <input type="hidden" name="cmd" value="_xclick">
-  <input type="hidden" name="business" value="YOUR_PAYPAL_EMAIL@example.com">
-  <input type="hidden" name="item_name" value="Khoá học video - Level 1">
-  <input type="hidden" name="amount" value="10.00">
-  <input type="hidden" name="currency_code" value="EUR">
+#### 🇪🇺 Ngân hàng châu Âu (SEPA):
+- **IBAN:** BE12 3456 7890 1234  
+- **Chủ tài khoản:** QUYNH NGUYEN  
+- **Nội dung chuyển khoản:** `Email của bạn + Tên khóa học`
 
-  <input type="hidden" name="on0" value="Facebook Profile URL or Name">
-  <label for="facebook-profile">Facebook Profile:</label>
-  <input type="text" name="os0" id="facebook-profile" maxlength="200">
-
-  <input type="hidden" name="return" value="https://allopoto.be/thank-you.html">
-  <input type="hidden" name="cancel_return" value="https://allopoto.be/payment-cancelled.html">
-
-  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-:::
+#### 🇻🇳 Ngân hàng Việt Nam:
+- (Chèn mã QR hoặc thông tin chuyển khoản Momo/ZaloPay ở đây)
 
 ---
+
+### Bước 2: Xác nhận đã chuyển tiền
+Sau khi chuyển khoản, bấm vào nút bên dưới để gửi thông tin xác nhận:
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="https://tally.so/r/3y5gQp" target="_blank" style="padding: 12px 24px; background-color: #0056b3; color: white; text-decoration: none; border-radius: 6px; font-size: 1.1em;">
+    ✅ Xác nhận đã chuyển tiền
+  </a>
+</div>
+
+> 📨 Bạn sẽ nhận được email xác nhận trong vòng vài phút, kèm hướng dẫn tham gia nhóm Facebook.
 
 **Và còn rất nhiều các khóa học thú vị khác, các bạn hãy đón chờ nhé!**
 
