@@ -19,27 +19,3 @@ about:
 **AllôPoto** là đội ngũ giảng viên trẻ, chuyên nghiệp, giàu kinh nghiệm, đã có hơn 10 năm giảng dạy tiếng Pháp tại Việt Nam, trong đó có nhiều người đã công tác tại các trường đại học lớn. Chúng mình tự hào đã giúp hàng trăm học viên đạt chứng chỉ tiếng Pháp trình độ A2 với tỷ lệ đỗ 100%, đồng thời hỗ trợ rất nhiều học viên xuất sắc vượt qua trình độ B1, B2 và C1 thành công.\
 Khám phá ngay các [**Khóa học**](courses.qmd) tại AllôPoto để tìm chương trình phù hợp với bạn.\
 **Liên hệ với chúng mình qua WhatsApp, Instagram, Email, Facebook hoặc Tiktok** để được tư vấn chi tiết 👇
-
-<!-- Shoutout Banner -->
-
-::: {style="background-color: #ffcc00; color: #000; padding: 20px; text-align: center; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"}
-<h2 style="font-size: 24px; font-weight: bold; margin-bottom: 15px;">
-
-🚨 \[SIVIBI x ALLOPOTO\] TALKSHOW: "LÀM BẠN VỚI TIẾNG PHÁP TẠI BỈ" 🚨
-
-</h2>
-
-<p style="font-size: 18px; margin-bottom: 20px; line-height: 1.6;">
-
-Hội Sinh viên Việt Nam tại Bỉ (SIVIBI) kết hợp cùng Allopoto tổ chức buổi talkshow miễn phí “**Làm bạn với tiếng Pháp tại Bỉ**”, nơi bạn sẽ được lắng nghe và thảo luận những câu hỏi thật – gắt – nhưng gần gũi như:
-
-💡 Tiếng Pháp hay tiếng Hà Lan – nên học cái nào để sống lâu dài ở Bỉ?\
-💡 Không biết tiếng Pháp, có “sống sót” nổi khi đi làm giấy tờ, đi bệnh viện, hay đi siêu thị?\
-💡 Có phải không biết tiếng là rào cản lớn nhất khiến sinh viên Việt khó hội nhập ở Bỉ?
-
-🎁 **Đặc biệt:** Allopoto sẽ tặng miễn phí một **video course phát âm tiếng Pháp** và **cheatsheet ngữ pháp siêu dễ nhớ** cho tất cả các bạn đăng ký tham gia talkshow! Đừng bỏ lỡ nhé! <br> ⏰ Thời gian webinar (dự kiến): 10h (giờ Bỉ) / 15h (giờ Việt Nam) ngày 02/08/2025.
-
-</p>
-
-<p><a href=https://forms.gle/TocJybXkNVoaV3Y87 style="font-size: 18px; color: #fff; background-color: #ff5722; padding: 12px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">Đăng ký ngay tại đây</a></p>
-:::
