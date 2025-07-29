@@ -29,7 +29,7 @@ format: html
 ::: columns
 
 ::: column
-1. Đếm từ 0 tới 1 tỉ  
+1. Đếm từ 0 tới 1 tỷ  
 2. Khác biệt giữa số đếm trong tiếng Pháp Pháp và Pháp Bỉ / Thụy Sĩ / Canada  
 3. Số thứ tự  
 4. Ứng dụng số đếm trong cuộc sống  
@@ -120,7 +120,7 @@ format: html
 2. Vị trí của tính từ trong câu  
 3. Các tính từ đặc biệt  
 4. Trạng từ  
-5. Tổng hợp, bài tập 
+5. Tổng hợp, bài tập  
 :::
 
 ::: column
@@ -128,6 +128,34 @@ format: html
 :::
 
 :::
+
+---
+
+## Đăng ký mua khóa học
+
+::: {.callout-note}
+### ✨ Đăng ký ngay khóa học video - Level 1
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_xclick">
+  <input type="hidden" name="business" value="YOUR_PAYPAL_EMAIL@example.com">
+  <input type="hidden" name="item_name" value="Khoá học video - Level 1">
+  <input type="hidden" name="amount" value="10.00">
+  <input type="hidden" name="currency_code" value="EUR">
+
+  <input type="hidden" name="on0" value="Facebook Profile URL or Name">
+  <label for="facebook-profile">Facebook Profile:</label>
+  <input type="text" name="os0" id="facebook-profile" maxlength="200">
+
+  <input type="hidden" name="return" value="https://allopoto.be/thank-you.html">
+  <input type="hidden" name="cancel_return" value="https://allopoto.be/payment-cancelled.html">
+
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+:::
+
+---
 
 **Và còn rất nhiều các khóa học thú vị khác, các bạn hãy đón chờ nhé!**
 
