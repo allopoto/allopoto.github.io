@@ -3,9 +3,30 @@ title: "Khóa học video của chúng mình"
 format: html
 ---
 
+## Phát âm
+
+### Giá: ~~19 EUR~~ → [**14 EUR** ~ **440.000 VNĐ**](#payment-info)
+
+::: columns
+
+::: column
+1. Nguyên âm  
+2. Nguyên âm mũi  
+3. Phụ âm  
+4. Luyện tập  
+:::
+
+::: column
+![](video-course/allopoto_cam_sach_vay_tay.png){fig-alt="Số đếm" width="100%" .rounded}
+:::
+
+:::
+
+---
+
 ## Giao tiếp cơ bản
 
-### Giá: [**39 EUR** ~ **1.190.000 VNĐ**](#payment-info)
+### Giá: ~~39 EUR~~ → [**29 EUR** ~ **890.000 VNĐ**](#payment-info)
 
 ::: columns
 
@@ -28,7 +49,7 @@ format: html
 
 ## Số đếm
 
-### Giá: [**19 EUR** ~ **590.000 VNĐ**](#payment-info)
+### Giá: ~~19 EUR~~ → [**14 EUR** ~ **440.000 VNĐ**](#payment-info)
 
 ::: columns
 
@@ -47,9 +68,34 @@ format: html
 
 ---
 
-## Chia động từ
+## Danh từ + Mạo từ
 
-### Giá: [**39 EUR** ~ **1.190.000 VNĐ**](#payment-info)
+### Giá: ~~19 EUR~~ → [**14 EUR** ~ **440.000 VNĐ**](#payment-info)
+
+::: columns
+
+::: column
+1. Danh từ chỉ người  
+2. Danh từ chỉ vật  
+3. Danh từ chỉ động vật  
+4. Giống đực / cái + số ít / nhiều  
+5. Mạo từ xác định / không xác định  
+6. Từ sở hữu  
+7. Từ chỉ định  
+8. Tổng hợp, bài tập  
+:::
+
+::: column
+![](video-course/allopoto_holding_3_ballons.png){fig-alt="Danh từ & Mạo từ" width="100%" .rounded}
+:::
+
+:::
+
+---
+
+## Chia động từ (coming soon)
+
+### Giá: ~~39 EUR~~ → [**29 EUR** ~ **890.000 VNĐ**](#payment-info)
 
 ::: columns
 
@@ -68,31 +114,6 @@ format: html
 
 ::: column
 ![](video-course/chia_dong_tu.png){fig-alt="Chia động từ" width="100%" .rounded}
-:::
-
-:::
-
----
-
-## Danh từ + Mạo từ
-
-### Giá: [**19 EUR** ~ **590.000 VNĐ**](#payment-info)
-
-::: columns
-
-::: column
-1. Danh từ chỉ người  
-2. Danh từ chỉ vật  
-3. Danh từ chỉ động vật  
-4. Giống đực / cái + số ít / nhiều  
-5. Mạo từ xác định / không xác định  
-6. Từ sở hữu  
-7. Từ chỉ định  
-8. Tổng hợp, bài tập  
-:::
-
-::: column
-![](video-course/allopoto_holding_3_ballons.png){fig-alt="Danh từ & Mạo từ" width="100%" .rounded}
 :::
 
 :::
